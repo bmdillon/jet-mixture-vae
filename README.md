@@ -16,7 +16,7 @@ The neural network architecture is very simple:
 Encoder:
  - Input layer for a pixelised image
  - One hidden layer with 100 nodes and SeLU activations
- - 2xN outputs for an N-dimensional latent space
+ - 2xN linear outputs for an N-dimensional latent space
 
 Sampling:
  - Sample N values from the N-dimensional Gaussian with the usual re-parameterisation step
