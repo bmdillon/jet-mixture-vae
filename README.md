@@ -9,9 +9,12 @@ The Dirichlet latent space has more structure and seems to accommodate different
 This is inspired by the Latent Dirichlet Allocation topic-models, but seems to be more versatile and more powerful.
 
 See:
- - LDA (https://jmlr.org/papers/volume3/blei03a/blei03a.pdf)
  - AutoEncoding VI for topic models (https://arxiv.org/pdf/1703.01488.pdf)
  - Dirichlet VAE (https://arxiv.org/pdf/1901.02739.pdf)
+ - LDA (https://jmlr.org/papers/volume3/blei03a/blei03a.pdf)
+ - LDA for jets I (https://arxiv.org/abs/1904.04200)
+ - LDA for jets II (https://arxiv.org/abs/2005.12319)
+ - LDA for jets github repo (https://github.com/bmdillon/lda-jet-substructure)
 
 The VAE has a Dirichlet latent space, where we use a softmax Gaussian approximation to the Dirichlet distribution.
 An N-dimensional Dirichlet is defined on an N-dimensional simplex, and in the softmax Gaussian approximation has 2xN parameters (N means and N variances) which are related to the Dirichlet hyper-parameters by a simple relation.
