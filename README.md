@@ -1,4 +1,5 @@
 Code used in:
+
 Barry M. Dillon, Christof Sauer, Peter Sorrenson, Tilman Plehn
 
 In this repo we build a mixture model VAE to analyse jet images.
@@ -20,9 +21,11 @@ Encoder:
  - Input layer for a pixelised image
  - One hidden layer with 100 nodes and SeLU activations
  - 2xN outputs for an N-dimensional latent space
+
 Sampling:
  - Sample N values from the N-dimensional Gaussian with the usual re-parameterisation step
  - Pass the vector through a softmax
+
 Decoder:
  - N nodes on the input layer
  - No hidden layers and no biases
