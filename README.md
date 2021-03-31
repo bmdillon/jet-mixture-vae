@@ -42,3 +42,4 @@ Refs:
  - LDA for jets I (https://arxiv.org/abs/1904.04200)
  - LDA for jets II (https://arxiv.org/abs/2005.12319)
  - LDA for jets github repo (https://github.com/bmdillon/lda-jet-substructure)
+ - VAEs for jets (https://arxiv.org/abs/1808.08979 & https://arxiv.org/abs/1808.08992 & https://arxiv.org/abs/2007.01850)
