@@ -1,6 +1,6 @@
 Code used in:
 
-Barry M. Dillon, Christof Sauer, Peter Sorrenson, Tilman Plehn
+Barry M. Dillon, Tilman Plehn, Christof Sauer, Peter Sorrenson
 
 In this repo we build a mixture model VAE to analyse jet images.
 For physics applications this model could have advantages over the more widely used Gaussian latent space, for unsupervised jet image classification this seems to be the case.
