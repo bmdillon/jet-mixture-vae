@@ -1,4 +1,4 @@
-Code used in:
+Code used in:  Better latent spaces for better autoencoders
 
 Barry M. Dillon, Tilman Plehn, Christof Sauer, Peter Sorrenson
 
